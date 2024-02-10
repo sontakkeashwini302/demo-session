@@ -1,2 +1,2 @@
 # demo-session
-this is to practice git uses
+this is my first git branch session
